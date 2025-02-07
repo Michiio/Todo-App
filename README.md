@@ -41,6 +41,8 @@ Computer with information science
 - Computer Science Education
 - Azeez Rahmon Gbolahan
 - Computer Science Education
+- Adejumo Winston
+- Computer Science 
 <!-- New contributors: Add your name above this line -->
 
 ## 📝 How to Contribute
