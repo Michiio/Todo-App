@@ -43,6 +43,8 @@ Computer with information science
 - Computer Science Education
 - Jamal Balogun Olawale LCU/UG/21/19560
 Computer Science
+Adejumo Winston LCU/UG/21/19716
+Computer Science 
 <!-- New contributors: Add your name above this line -->
 
 ## 📝 How to Contribute
